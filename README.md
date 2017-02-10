@@ -1,2 +1,2 @@
-# etl-php-lib
-ETL implementation in PHP
+# Muscular
+ETL implementation in PHP, using generators to handle large datasets
